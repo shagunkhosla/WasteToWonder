@@ -31,7 +31,7 @@ i:hover {
 
 .section-heading {
   font-size: 3rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 /*TITLE SECTION*/
@@ -94,7 +94,7 @@ i:hover {
 
 .feature-heading {
   font-size: 2rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 .feature-box {
